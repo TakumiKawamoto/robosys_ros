@@ -14,7 +14,7 @@ ROS, OpenCV, WEBカメラなどを使用し、人の顔を認識すると「35�
 ---
 # 実演動画
 
-[![](http://img.youtube.com/vi/tvPxqZOXisg/0.jpg)](http://www.youtube.com/watch?v=tvPxqZOXisg "")
+
 
 ---
 ## 環境・使用機材
