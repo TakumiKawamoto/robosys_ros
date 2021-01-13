@@ -14,7 +14,7 @@ ROS, OpenCV, WEBカメラなどを使用し、人の顔を認識すると「35�
 ---
 # 実演動画
 
-
+[![](http://img.youtube.com/vi/8VfxVXgFEdg/0.jpg)](http://www.youtube.com/watch?v=8VfxVXgFEdg "robosys2020 ros demo video")
 
 ---
 ## 環境・使用機材
